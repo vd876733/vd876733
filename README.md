@@ -16,6 +16,7 @@ Software Engineer • Java Developer • Spring Boot • C++ • Data Engineerin
 <img src="https://komarev.com/ghpvc/?username=vd876733&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+
 ---
 
 # 👨‍💻 About Me
@@ -47,6 +48,10 @@ Software Engineer • Java Developer • Spring Boot • C++ • Data Engineerin
 
 <a href="https://instagram.com/varad_deshmukh_11">
 <img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://www.codechef.com/users/varad_11082005" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="45" alt="CodeChef"/>
 </a>
 
 </p>
@@ -143,9 +148,6 @@ https://github.com/vd876733/Expense_Tracker-Spring-boot-And-React-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vd876733&theme=tokyonight&utcOffset=5.5" width="32%"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vd876733/vd876733/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/varad_max11?theme=dark&font=Karma&ext=contest" />
@@ -158,20 +160,14 @@ https://github.com/vd876733/Expense_Tracker-Spring-boot-And-React-
 
 ---
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
-✔️ 400+ Problems Solved
+- 🟠 **LeetCode:** https://leetcode.com/u/varad_max11/
+- 🟤 **CodeChef:** https://www.codechef.com/users/varad_11082005
+- 🟢 **HackerRank:** https://www.hackerrank.com/profile/vd876733
 
-✔️ Strong in
-
-- Arrays
-- Strings
-- Binary Search
-- Sliding Window
-- Trees
-- Graphs
-- Dynamic Programming
-- SQL
+- ✔️ 400+ DSA problems solved
+- ✔️ Strong in Arrays, Strings, Graphs, DP, Sliding Window, Binary Search, SQL
 
 ---
 
